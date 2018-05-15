@@ -2,6 +2,10 @@
 
 ### How To Start
 ```
+npm install
+cd chat-client
+npm install
+cd ..
 npm start
 ```
 
